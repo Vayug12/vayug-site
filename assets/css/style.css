@@ -105,6 +105,10 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.2; font-weight: 700; }
   text-decoration: none;
 }
 .logo:hover { color: var(--text); }
+.logo-img {
+  height: 36px;
+  width: auto;
+}
 .logo-icon {
   width: 36px;
   height: 36px;
