@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+
+User-agent: GPTBot
+Allow: /
+Allow: /llms.txt
+Disallow: /assets/
+
+User-agent: Google-Extended
+Allow: /
+Allow: /llms.txt
+Disallow: /assets/
+
+User-agent: CCBot
+Allow: /
+Allow: /llms.txt
+Disallow: /assets/
+
+User-agent: anthropic-ai
+Allow: /
+Allow: /llms.txt
+Disallow: /assets/
+
+User-agent: ClaudeBot
+Allow: /
+Allow: /llms.txt
+Disallow: /assets/
+
+Sitemap: https://snehayog.site/sitemap.xml
